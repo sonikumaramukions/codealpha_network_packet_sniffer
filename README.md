@@ -1,6 +1,4 @@
 # codealpha_network_packet_sniffer
-# CodeAlpha_NetworkSniffer
-
 ## 🔍 Task Overview
 
 This is a basic network packet sniffer built using Python and Scapy. It captures and displays live network traffic, including IP, TCP, UDP, and ICMP packet details.
